@@ -1,19 +1,18 @@
-bool checkIfPangram(char* sentence) {
-      int seen[26] = {0}; 
-    int len = strlen(sentence);
+#include <string.h>
+#include <stdbool.h>
 
-    for (int i = 0; i < len; i++) {
-        if (isalpha(sentence[i])) {   
-            char lower = tolower(sentence[i]);   
-            seen[lower - 'a'] = 1;   
+bool checkIfPangram(char *sentence) {
+    for(char ch = 'a'; ch <= 'z'; ch++) {
+        bool found = false;
+
+        for(int i = 0; i < strlen(sentence); i++) {
+            if(sentence[i] == ch) {
+                found = true;
+                break;
+            }
         }
-    }
 
-    for (int i = 0; i < 26; i++) {
-        if (seen[i] == 0) {
-            return false; 
-        }
+        if(!found) return false;   
     }
-
-    return true;
+    return true; 
 }
