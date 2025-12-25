@@ -7,6 +7,6 @@ int findDelayedArrivalTime(int arrivalTime, int delayedTime) {
         return 0;
     }
     else{
-        return sum-delayedTime;
+        return sum-24;
     }
 }
