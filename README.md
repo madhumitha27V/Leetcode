@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/madhumitha27V/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 <!---LeetCode Topics End-->
