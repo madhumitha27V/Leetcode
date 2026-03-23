@@ -12,6 +12,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -79,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
