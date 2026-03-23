@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/madhumitha27V/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/madhumitha27V/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/madhumitha27V/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/madhumitha27V/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
