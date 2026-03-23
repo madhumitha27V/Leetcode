@@ -18,6 +18,7 @@
 | [0115-distinct-subsequences](https://github.com/madhumitha27V/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/madhumitha27V/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhumitha27V/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -49,6 +50,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumitha27V/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhumitha27V/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/madhumitha27V/Leetcode/tree/main/0135-candy/) | Hard |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -75,6 +77,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhumitha27V/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/madhumitha27V/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/madhumitha27V/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -92,12 +95,14 @@
 | [0041-first-missing-positive](https://github.com/madhumitha27V/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/madhumitha27V/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/madhumitha27V/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhumitha27V/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0052-n-queens-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -184,4 +189,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/madhumitha27V/Leetcode/tree/main/0127-word-ladder/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
