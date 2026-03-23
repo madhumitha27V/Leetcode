@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhumitha27V/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/madhumitha27V/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/madhumitha27V/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhumitha27V/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
