@@ -76,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhumitha27V/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0052-n-queens-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
