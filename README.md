@@ -20,6 +20,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhumitha27V/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -216,4 +217,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/madhumitha27V/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
