@@ -205,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/madhumitha27V/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
