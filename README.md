@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/madhumitha27V/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/madhumitha27V/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/madhumitha27V/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/madhumitha27V/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/madhumitha27V/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -102,4 +104,5 @@
 | [0005-longest-palindromic-substring](https://github.com/madhumitha27V/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/madhumitha27V/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/madhumitha27V/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/madhumitha27V/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
