@@ -13,6 +13,7 @@
 | [0032-longest-valid-parentheses](https://github.com/madhumitha27V/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0065-valid-number](https://github.com/madhumitha27V/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/madhumitha27V/Leetcode/tree/main/0068-text-justification/) | Hard |
+| [0076-minimum-window-substring](https://github.com/madhumitha27V/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/madhumitha27V/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhumitha27V/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/madhumitha27V/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/madhumitha27V/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhumitha27V/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhumitha27V/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/madhumitha27V/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0076-minimum-window-substring](https://github.com/madhumitha27V/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
