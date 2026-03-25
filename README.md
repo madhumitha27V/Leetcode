@@ -64,6 +64,7 @@
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/madhumitha27V/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/madhumitha27V/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@
 | [2906-construct-product-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/madhumitha27V/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
