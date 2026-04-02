@@ -150,6 +150,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [1622-fancy-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/madhumitha27V/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Sorting
@@ -262,4 +263,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/madhumitha27V/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
