@@ -45,6 +45,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/madhumitha27V/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/madhumitha27V/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/madhumitha27V/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/madhumitha27V/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhumitha27V/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
