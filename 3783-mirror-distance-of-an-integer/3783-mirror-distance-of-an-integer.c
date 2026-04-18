@@ -1,9 +1,11 @@
 int mirrorDistance(int n) {
+    int org = n;
+    int rem=0, rev=0;
     while (n != 0) {
-        remainder = n % 10;           
-        reverse = reverse * 10 + remainder; 
+        rem = n % 10;           
+        rev = rev * 10 + rem; 
         n /= 10;                      
     }
-
-    return n - reverse;
+    int sub = org - rev;
+    return abs(sub);
 }
