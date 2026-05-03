@@ -21,6 +21,7 @@
 | [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [0796-rotate-string](https://github.com/madhumitha27V/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/madhumitha27V/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -279,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/madhumitha27V/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [0796-rotate-string](https://github.com/madhumitha27V/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
