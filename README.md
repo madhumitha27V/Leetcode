@@ -58,6 +58,7 @@
 | [0018-4sum](https://github.com/madhumitha27V/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/madhumitha27V/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/madhumitha27V/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/madhumitha27V/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0068-text-justification](https://github.com/madhumitha27V/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumitha27V/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhumitha27V/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -91,6 +92,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/madhumitha27V/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0174-dungeon-game](https://github.com/madhumitha27V/Leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -171,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/madhumitha27V/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/madhumitha27V/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0788-rotated-digits](https://github.com/madhumitha27V/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
