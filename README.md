@@ -46,6 +46,7 @@
 | [0068-text-justification](https://github.com/madhumitha27V/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/madhumitha27V/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/madhumitha27V/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -79,6 +80,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhumitha27V/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/madhumitha27V/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/madhumitha27V/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
