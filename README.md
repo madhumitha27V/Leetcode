@@ -83,6 +83,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhumitha27V/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2540-minimum-common-value](https://github.com/madhumitha27V/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/madhumitha27V/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/madhumitha27V/Leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -153,6 +154,7 @@
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/madhumitha27V/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/madhumitha27V/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/madhumitha27V/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/madhumitha27V/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/madhumitha27V/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/madhumitha27V/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -232,6 +234,7 @@
 | [0018-4sum](https://github.com/madhumitha27V/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/madhumitha27V/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumitha27V/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/madhumitha27V/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +292,7 @@
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumitha27V/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/madhumitha27V/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/madhumitha27V/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/madhumitha27V/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Database
