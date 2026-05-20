@@ -74,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/madhumitha27V/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumitha27V/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1306-jump-game-iii](https://github.com/madhumitha27V/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/madhumitha27V/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -194,6 +195,7 @@
 | [0048-rotate-image](https://github.com/madhumitha27V/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0788-rotated-digits](https://github.com/madhumitha27V/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumitha27V/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1622-fancy-sequence](https://github.com/madhumitha27V/Leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhumitha27V/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
