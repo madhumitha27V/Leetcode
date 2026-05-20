@@ -1,14 +1,16 @@
 void moveZeroes(int* nums, int numsSize) {
-    int count = 0, k = 0;
-    int new[numsSize];
+
+    int k = 0;
+
     for(int i = 0 ; i < numsSize ; i++){
+
         if(nums[i] != 0){
-            new[k] = nums[i];
+            nums[k] = nums[i];
             k++;
         }
     }
-    for(int i = 0 ; i < k-numsSize ; i++){
-        new[k] = 0;
+
+    for(int i = k; i < numsSize; i++){
+        nums[i] = 0;
     }
-    return new[k];
 }
