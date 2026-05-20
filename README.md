@@ -72,6 +72,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/madhumitha27V/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/madhumitha27V/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/madhumitha27V/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/madhumitha27V/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -241,6 +242,7 @@
 | [0018-4sum](https://github.com/madhumitha27V/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhumitha27V/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/madhumitha27V/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0283-move-zeroes](https://github.com/madhumitha27V/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumitha27V/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/madhumitha27V/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
