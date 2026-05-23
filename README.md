@@ -75,6 +75,7 @@
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/madhumitha27V/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0724-find-pivot-index](https://github.com/madhumitha27V/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumitha27V/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1306-jump-game-iii](https://github.com/madhumitha27V/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -182,6 +183,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/madhumitha27V/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/madhumitha27V/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/madhumitha27V/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
