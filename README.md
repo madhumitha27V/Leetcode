@@ -89,6 +89,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/madhumitha27V/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/madhumitha27V/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/madhumitha27V/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumitha27V/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -224,6 +225,7 @@
 | [0088-merge-sorted-array](https://github.com/madhumitha27V/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhumitha27V/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/madhumitha27V/Leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -241,6 +243,7 @@
 | [0011-container-with-most-water](https://github.com/madhumitha27V/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/madhumitha27V/Leetcode/tree/main/0135-candy/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/madhumitha27V/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -369,4 +372,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/madhumitha27V/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
