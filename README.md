@@ -150,6 +150,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/madhumitha27V/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/madhumitha27V/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
