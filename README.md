@@ -151,6 +151,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/madhumitha27V/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/madhumitha27V/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhumitha27V/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhumitha27V/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
