@@ -110,6 +110,7 @@
 | [3488-closest-equal-element-queries](https://github.com/madhumitha27V/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhumitha27V/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -205,6 +206,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/madhumitha27V/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/madhumitha27V/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/madhumitha27V/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhumitha27V/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -288,6 +290,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhumitha27V/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhumitha27V/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
