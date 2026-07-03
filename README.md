@@ -77,6 +77,7 @@
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/madhumitha27V/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/madhumitha27V/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumitha27V/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -173,6 +174,7 @@
 | [0127-word-ladder](https://github.com/madhumitha27V/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/madhumitha27V/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/madhumitha27V/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
