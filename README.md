@@ -328,6 +328,7 @@
 | [1306-jump-game-iii](https://github.com/madhumitha27V/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/madhumitha27V/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/madhumitha27V/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhumitha27V/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -340,6 +341,7 @@
 | [1306-jump-game-iii](https://github.com/madhumitha27V/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/madhumitha27V/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/madhumitha27V/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +387,7 @@
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/madhumitha27V/Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/madhumitha27V/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/madhumitha27V/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -411,4 +414,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/madhumitha27V/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
