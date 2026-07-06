@@ -81,6 +81,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/madhumitha27V/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/madhumitha27V/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhumitha27V/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1306-jump-game-iii](https://github.com/madhumitha27V/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/madhumitha27V/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -242,6 +243,7 @@
 | [0018-4sum](https://github.com/madhumitha27V/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/madhumitha27V/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/madhumitha27V/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
