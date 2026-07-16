@@ -52,6 +52,7 @@
 | [2751-robot-collisions](https://github.com/madhumitha27V/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/madhumitha27V/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhumitha27V/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhumitha27V/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/madhumitha27V/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhumitha27V/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/madhumitha27V/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhumitha27V/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhumitha27V/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@
 | [2784-check-if-array-is-good](https://github.com/madhumitha27V/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/madhumitha27V/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/madhumitha27V/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhumitha27V/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +297,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/madhumitha27V/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhumitha27V/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/madhumitha27V/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhumitha27V/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,4 +434,8 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/madhumitha27V/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/madhumitha27V/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhumitha27V/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhumitha27V/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
