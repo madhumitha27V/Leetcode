@@ -81,6 +81,7 @@
 | [0212-word-search-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/madhumitha27V/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0724-find-pivot-index](https://github.com/madhumitha27V/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -183,6 +184,7 @@
 | [0140-word-break-ii](https://github.com/madhumitha27V/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0169-majority-element](https://github.com/madhumitha27V/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhumitha27V/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/madhumitha27V/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/madhumitha27V/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -255,6 +257,7 @@
 | [0088-merge-sorted-array](https://github.com/madhumitha27V/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/madhumitha27V/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/madhumitha27V/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/madhumitha27V/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/madhumitha27V/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/madhumitha27V/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -269,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhumitha27V/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/madhumitha27V/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Greedy
@@ -311,6 +315,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhumitha27V/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/madhumitha27V/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/madhumitha27V/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/madhumitha27V/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhumitha27V/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -431,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/madhumitha27V/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/madhumitha27V/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/madhumitha27V/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhumitha27V/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -461,4 +467,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/madhumitha27V/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/madhumitha27V/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
