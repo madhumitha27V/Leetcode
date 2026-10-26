@@ -13,6 +13,9 @@ class Solution {
             if(map.get(key) > max){
                 max = map.get(key);
             }
+
+            
+
         }
 
         for(int key : map.keySet()){
